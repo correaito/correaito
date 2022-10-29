@@ -3,7 +3,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de Caf√
 
 
 ## :globe_with_meridians: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-garmatter-8a05601b8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCl2hF5WJS9GjaZ8Cv6KipWg) 
+[![Facebook](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/SAServicosTI) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCl2hF5WJS9GjaZ8Cv6KipWg) 
 
 ## :computer: Tech Stack:
 ![imagem](https://docs.google.com/uc?id=1NHViW6YA-DF3ZJqm10c7kpcnHCnovN92)
