@@ -6,7 +6,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de CafÃ
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/SAServicosTI) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCl2hF5WJS9GjaZ8Cv6KipWg) 
 
 ## :computer: Tech Stack:
-![imagem](https://docs.google.com/uc?id=1NHViW6YA-DF3ZJqm10c7kpcnHCnovN92)
+![imagem](https://docs.google.com/uc?id=1NHViW6YA-DF3ZJqm10c7kpcnHCnovN9](https://img.shields.io/badge/-Photoshop-0ABF53?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 ## ðŸ“Š GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=correaito&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
