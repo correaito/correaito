@@ -23,7 +23,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de Caf√
 ![imagem](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![imagem](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![imagem](https://img.shields.io/badge/-KIVY-1572B6?style=for-the-badge&logo=KIVY&logoColor=white)
-![imagem](https://img.shields.io/badge/-Visual%Studio%Code-007ACC?style=for-the-badge&logo=Visual%Studio%Code&logoColor=white)
+![imagem](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Tkinter-000000?style=for-the-badge&logo=Tkinter&logoColor=white)
 ![imagem](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
