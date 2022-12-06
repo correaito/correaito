@@ -12,7 +12,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de Caf√
 ![imagem](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Microsoft%SQL%Server-CC2927?style=for-the-badge&logo=Microsoft%SQL%Server&logoColor=white)
 ![imagem](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![imagem](https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white)
+![imagem](https://img.shields.io/badge/-Adobe%Photoshop-31A8FF?style=for-the-badge&logo=Adobe%Photoshop&logoColor=white)
 ![imagem](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
 ![imagem](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
