@@ -29,6 +29,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de CafÃ
 ![imagem](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Handlebars.js-000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![imagem](https://img.shields.io/badge/-TeamViewer-004680?style=for-the-badge&logo=TeamViewer&logoColor=white)
 
 ## ðŸ“Š GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=correaito&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
