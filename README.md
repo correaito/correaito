@@ -8,7 +8,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de Caf�
 ## :computer: Tech Stack:
 ![imagem](https://img.shields.io/badge/-Photoshop-0ABF53?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
-## 📊 GitHub Stats:[https://docs.google.com/uc?id=1NHViW6YA-DF3ZJqm10c7kpcnHCnovN9]
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=correaito&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=correaito&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=correaito&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
