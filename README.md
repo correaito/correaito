@@ -4,6 +4,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de Caf√
 
 ## :globe_with_meridians: Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/SAServicosTI) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCl2hF5WJS9GjaZ8Cv6KipWg) 
+[![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:correaito@gmail.com) 
 
 ## :computer: Tech Stack:
 ![imagem](https://img.shields.io/badge/-Photoshop-0ABF53?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
