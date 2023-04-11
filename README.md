@@ -1,5 +1,5 @@
 ## :man: About Me:
-Administrador de Empresas, Apaixonado por Tecnologia, Pythoneiro, amante de Café e Nerdologia
+Administrador de Empresas, Apaixonado por Tecnologia, Codando, e amante de Café e Nerdologia
 
 
 ## :globe_with_meridians: Socials:
