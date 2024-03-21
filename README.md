@@ -3,7 +3,7 @@ Administrador de Empresas, Apaixonado por Tecnologia, Coding, amante de Café e 
 
 
 ## :globe_with_meridians: Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/SAServicosTI) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF0000.svg?logo=YouTube&logoColor=blue)](https://www.linkedin.com/in/alan-garmatter-07b3b3295/)
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/SAServicosTI) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF0000.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alan-garmatter-07b3b3295/)
 [![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:correaito@gmail.com) 
 
 ## :computer: Tech Stack:
