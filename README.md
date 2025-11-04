@@ -1,12 +1,10 @@
 ## :man: About Me:
 Administrador de Empresas, Apaixonado por Tecnologia, Coding, amante de Café e Nerdologia
 
-
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alan-garmatter-07b3b3295/)
 [![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:correaito@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/SAServicosTI) 
-
 
 ## :computer: Tech Stack:
 ![imagem](https://img.shields.io/badge/-Photoshop-0ABF53?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
@@ -32,6 +30,8 @@ Administrador de Empresas, Apaixonado por Tecnologia, Coding, amante de Café e 
 ![imagem](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Handlebars.js-000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)
 ![imagem](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![imagem](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![imagem](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![imagem](https://img.shields.io/badge/-TeamViewer-004680?style=for-the-badge&logo=TeamViewer&logoColor=white)
 ![imagem](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
