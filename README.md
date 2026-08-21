@@ -80,7 +80,5 @@
 <br/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=correaito&icon=2&color=1" alt="Visitors Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=correaito&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitors Count" />
 </div>
